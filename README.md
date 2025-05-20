@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- I’m currently working on WingOS (C++ more than python) and just random stuff
+- I’m currently working on Secure Apps for a Web Platform
 - I’m currently learning C++, C and more low level langs like ASM
-- I’m looking to collaborate on WingOS. I'm no where near a pro dev, and yet I choose to make an OS.
-- I’m looking for help with ^^^ AS ABOVE. ^^^
+- I’m looking to collaborate on multiple projects!
+- I’m looking for help with learning Cybersecurity
 - Ask me about python stuff, I'm ALOT better at python than other langs
 - How to reach me: azzynchara@gmail.com or azzynchara@outlook.com
 - Pronouns: Any and all
